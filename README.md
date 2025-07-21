@@ -18,25 +18,6 @@ The theory is composed of the following elements:
 
 ---
 
-## 📂 Structure
-```
-planetary-tensor-dynamics/
-├── README.md
-├── modules/
-│   ├── core_tensor_dynamics.md       # Spiral structure and mechanism of internal tensor
-│   ├── external_rotation_origin.md   # Cosmic origin of planetary rotation
-│   ├── spherical_constraint.md       # Why planetary bodies must remain spherical
-│   ├── energium_core_reactor.md      # Central core and function of Energium
-│   ├── gravity_distribution_map.md   # Relationship between gravity intensity and magnetic lines
-│   └── simulation_results/           # Scenario-based virtual simulations
-├── images/                           # Diagrams and visual illustrations
-│   ├── 3d_tensor_core_model.png
-│   ├── magnetic_field_dynamics.png
-│   └── gravity_vector_imbalance.png
-└── references.md                     # Comparison with conventional theories
-```
-
----
 
 ## 🔄 Relation to Electrical Gravity Theory
 This theory complements the following repository by providing the **structural dynamics** that underpin electromagnetic gravity:
